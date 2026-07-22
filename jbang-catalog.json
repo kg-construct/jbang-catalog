@@ -1,8 +1,8 @@
 {
-  "aliases": {
-    "burp": {
-      "script-ref": "burp.java",
-      "description": "A Basic and Unassuming RML Processor (BURP) with RML Execution Report (RER) error handling"
+  "aliases" : {
+    "burp" : {
+      "script-ref" : "burp.java",
+      "description" : "A Basic and Unassuming RML Processor (BURP) with RML Execution Report (RER) error handling"
     }
   }
 }
