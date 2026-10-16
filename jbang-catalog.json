@@ -1,7 +1,7 @@
 {
   "aliases" : {
     "burp" : {
-      "script-ref" : "io.github.kg-construct:burp:0.1.4-rc.7",
+      "script-ref" : "io.github.kg-construct:burp:0.1.4-rc.8",
       "main-class" : "burp.Main",
       "description" : "A Basic and Unassuming RML Processor (BURP) with RML Execution Report (RER) error handling",
       "main" : "burp.Main",
